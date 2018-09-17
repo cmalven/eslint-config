@@ -1,0 +1,18 @@
+{
+  "name": "@malven/eslint-config",
+  "version": "0.0.1",
+  "description": "Malven Co. Javascript coding standards for use with ESLint http://eslint.org",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmalven/eslint-config.git"
+  },
+  "author": "Chris Malven <hello@malven.co",
+  "license": "ISC",
+  "homepage": "https://github.com/cmalven/eslint-config",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ]
+}
