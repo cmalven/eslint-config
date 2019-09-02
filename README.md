@@ -6,7 +6,7 @@ Malven Co. Javascript coding standards for use with [ESLint](http://eslint.org)
 ## How to Use
 
 ```
-npm install @malven/eslint-config babel-eslint eslint-plugin-react --save-dev
+npm install @malven/eslint-config eslint babel-eslint eslint-plugin-react --save-dev
 ```
 
 ### In your global or project-specific .eslintrc
