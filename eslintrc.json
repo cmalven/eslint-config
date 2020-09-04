@@ -24,7 +24,7 @@
     "arrow-spacing": ["error", { "before": true, "after": true }],
     "key-spacing": ["error", { "beforeColon": false, "afterColon": true }],
     "lines-between-class-members": ["error", "always", {"exceptAfterSingleLine": true}],
-    "max-nested-callbacks": ["error", 2],
+    "max-nested-callbacks": ["error", 3],
     "no-console": "off",
     "no-mixed-spaces-and-tabs": ["error"],
     "no-multi-spaces": "error",
@@ -41,7 +41,6 @@
     "new-cap": "error",
     "no-undef": "off",
     "no-bitwise": ["error", { "allow": ["~"] }],
-    "react/react-in-jsx-scope": "error",
     "react/jsx-uses-react": "error",
     "react/jsx-uses-vars": "error",
     "react/no-array-index-key": "error",
@@ -58,8 +57,7 @@
     "react/jsx-closing-bracket-location": [2, "tag-aligned"],
     "react/jsx-key": "error",
     "react/jsx-no-duplicate-props": [2, { "ignoreCase": true }],
-    "react/jsx-tag-spacing": [2, {"closingSlash": "never", "beforeSelfClosing": "always", "afterOpening": "never", "beforeClosing": "never"}],
-    "max-nested-callbacks": ["error", 3]
+    "react/jsx-tag-spacing": [2, {"closingSlash": "never", "beforeSelfClosing": "always", "afterOpening": "never", "beforeClosing": "never"}]
   },
 
   "plugins": [
