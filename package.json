@@ -1,6 +1,6 @@
 {
   "name": "@malven/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Malven Co. Javascript coding standards for use with ESLint http://eslint.org",
   "main": "index.js",
   "scripts": {},
