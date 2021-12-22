@@ -1,6 +1,6 @@
 {
   "name": "@malven/eslint-config",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "Malven Co. Javascript coding standards for use with ESLint http://eslint.org",
   "main": "index.js",
   "scripts": {},
@@ -14,10 +14,5 @@
   "keywords": [
     "eslint",
     "eslintconfig"
-  ],
-  "devDependencies": {
-    "@babel/core": "^7.12.17",
-    "@babel/eslint-parser": "^7.12.17",
-    "eslint": "^7.20.0"
-  }
+  ]
 }
